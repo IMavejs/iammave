@@ -1,6 +1,6 @@
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/879100546559148033 )](https://discord.com/users/879100546559148033) <br><br> 
 
-<p><img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=seavortex&theme=dark&show_icons=true&locale=en&layout=compact" alt="IMavejs"  /></p><p>&nbsp;<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=JeParzival&theme=dark&show_icons=true&locale=en" alt="IMavejs"  ></p>
+<p><img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=IMavejs&theme=dark&show_icons=true&locale=en&layout=compact" alt="IMavejs"  /></p><p>&nbsp;<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=IMavejs&theme=dark&show_icons=true&locale=en" alt="IMavejs"  ></p>
                   
 🔗 &nbsp;**Contact with me**
 <p align="left">
